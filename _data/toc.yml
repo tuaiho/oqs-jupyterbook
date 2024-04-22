@@ -22,18 +22,6 @@
   url: /introduction
 - title: Preliminaries
   url: /preliminaries
-- title: Microscopic derivation of the master equation
-  url: /microscopic_derivation_of_the_markovian_master_equation
-- title: "Dynamical maps: Markovian semigroups"
-  url: /markovian_semigroups
-- title: "Dynamical maps: divisibility"
-  url: /divisible_maps
-- url: /projection_operator_techniques
-  title: Projection operator techniques
-- url: /jaynes_cummings_with_losses
-  title: Jaynes-Cummings model with losses
-- url: /non-markovian_quantum_dynamics
-  title: Non-Markovian quantum dynamics
 
 - header: Projects
 
@@ -63,4 +51,11 @@
   not_numbered: true
   sections:
   - url: /project_4-solution
+    title: Solution
+
+- url: /final_project
+  title: "Final Project: Pauli Twirling"
+  not_numbered: true
+  sections:
+  - url: /final_project-solutions
     title: Solution

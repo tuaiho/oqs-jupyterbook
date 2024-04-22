@@ -11,16 +11,11 @@ The course is aimed at master students with a background in Quantum Mechanics an
 
 1. [Introduction](introduction.html)
 2. [Preliminaries](preliminaries.html)
-3. [Microscopic derivation of the master equation](microscopic_derivation_of_the_markovian_master_equation.html)
-4. [Dynamical maps: Markovian semigroups](markovian_semigroups.html)
-5. [Dynamical maps: divisibility](divisible_maps.html#commanddiv)
-6. [Projection operator techniques](projection_operator_techniques.html)
-7. [Jaynes-Cummings model with losses](jaynes_cummings_with_losses.html)
-8. [Non-Markovian quantum dynamics](non-markovian_quantum_dynamics.html)
 
 ## Projects
 
 1. [Depolarizing channel](project_1-depolarizing_channel.html) ([Solution](project_1-solution.html))
 2. [Pauli channel](project_2-pauli_channel.html) ([Solution](project_2-solution.html))
 3. [Markovian reservoir engineering](project_3-reservoir-engineering.html) ([Solution](project_3-solution.html))
-3. [Amplitude damping channel](project_4-amplitude_damping.html) ([Solution](project_4-solution.html))
+4. [Amplitude damping channel](project_4-amplitude_damping.html) ([Solution](project_4-solution.html))
+5. [Amplitude damping channel](final_project.html) ([Solution](final_project-solutions.html))

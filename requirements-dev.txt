@@ -72,7 +72,6 @@ pytest
 python-constraint
 python-dateutil
 pytz
-pywin32
 pyyaml
 pyzmq
 qiskit-aer

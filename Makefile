@@ -11,9 +11,6 @@ help:
 	@echo "  site 		 to build the site HTML, store in _site/, and serve with Jekyll"
 
 
-install:
-	jupyter-book install ./
-
 book:
 	jupyter-book build ./
 

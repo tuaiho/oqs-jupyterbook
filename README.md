@@ -6,10 +6,10 @@ This set of notebooks contains the material for a comprehensive 54-hour course o
 
 The course is aimed at master students with a background in Quantum Mechanincs and Quantum Information theory who are also familiar with Qiskit. It is divided into lectures and projects. Throught the lecture notes, the lecturer will find several examples of important concepts for OQS in terms of circuits, with which we assume the student to be acquainted. The lecture material also includes many circuits that enable the simulation of OQS dynamics on the real IBM Q devices, with comprehensive explanations on their working principles. Finally, the lectures are to be supplemented with guided practical "hands-on" sessions in which the students must implement the corresponding circuits and analyze the results.
 
-[Link to the website](https://matteoacrossi.github.io/oqs-jupyterbook)
+[Link to the website](https://qplaylearn.github.io/oqs-jupyterbook)
 
 ## Installation
-In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.8 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
+In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.11.9 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
 
 ```shell
 poetry install

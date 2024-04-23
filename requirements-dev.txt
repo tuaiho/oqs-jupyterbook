@@ -29,13 +29,14 @@ jedi
 jinja2
 joblib
 jsonschema
-jupyter-book
+jupyter-book==0.6.4
 jupyter-client
 jupyter-core
 jupytext
 kiwisolver
 libsass
 lxml
+lxml_html_clean
 markdown-it-py
 markupsafe
 matplotlib-inline

@@ -2,8 +2,19 @@
  * Variables
  */
 
+ @font-face {
+  font-family: Archia;
+  src: url("../../../assets/fonts/Archia-Regular.otf");
+}
+
+@font-face {
+  font-family: DalaMoa;
+  src: url("../../../assets/fonts/DalaMoa-Medium-Web.woff");
+}
+
+
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: Archia, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 

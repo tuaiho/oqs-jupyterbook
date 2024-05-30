@@ -18,11 +18,8 @@
   title: Index
   not_numbered: true
 
-- title: Introduction
-  url: /introduction
-- title: Preliminaries
-  url: /preliminaries
-
+- title: Getting started
+  url: /getting_started
 - header: Projects
 
 - url: /project_1-depolarizing_channel

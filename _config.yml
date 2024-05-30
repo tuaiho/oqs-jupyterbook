@@ -30,7 +30,7 @@ url: "https://qplaylearn.github.io" # the base hostname & protocol for your site
 # Jupyter Book settings
 
 # Main page settings
-footer_text               : Created by Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
+footer_text               : Created by Keijo Korhonen, Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
 
 # Sidebar settings
 show_sidebar              : true  # Show the sidebar. Only set to false if your only wish to host a single page.

@@ -1,9 +1,10 @@
+<img src="images/oqs.001.png"/>
+
 This set of projects is based on the course **Open Quantum Systems (OQS) with Qiskit**, which covers the most basic and essential concepts in the literature of OQS. The original course provided a novel way OQS: by giving students the opportunity to learn how to simulate many paradigmatic examples of OQS dynamics with [Qiskit](https://qiskit.org) and the [IBM Quantum Platform](https://quantum-computing.ibm.com). This idea finds its origin in the publication ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in which the authors demonstrate that the IBM Quantum Platform is a versatile and robust platform for simulating open quantum systems.
 
 
 The projects is aimed at master students with a background in Quantum Mechanics and Quantum Information theory who are interested to learn Qiskit. The projects are meant to be used as supplements to lectures and are ideally taught in the form of *guided practical "hands-on" sessions* in which the students must implement quantum circuits and analyze their results.
 
-<img src="images/oqs.001.png"/>
 
 # Table of contents
 

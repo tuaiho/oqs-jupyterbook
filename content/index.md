@@ -1,4 +1,4 @@
-<img src="images/oqs.001.png"/>
+<img src="images/oqs_title_.jpg"/>
 
 This set of projects is based on the course **Open Quantum Systems (OQS) with Qiskit**, which covers the most basic and essential concepts in the literature of OQS. The original course provided a novel way OQS: by giving students the opportunity to learn how to simulate many paradigmatic examples of OQS dynamics with [Qiskit](https://qiskit.org) and the [IBM Quantum Platform](https://quantum-computing.ibm.com). This idea finds its origin in the publication ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in which the authors demonstrate that the IBM Quantum Platform is a versatile and robust platform for simulating open quantum systems.
 
@@ -17,3 +17,5 @@ The projects is aimed at master students with a background in Quantum Mechanics 
 3. [Markovian reservoir engineering](project_3-reservoir-engineering.html) ([Solution](project_3-solution.html))
 4. [Amplitude damping channel](project_4-amplitude_damping.html) ([Solution](project_4-solution.html))
 5. [Amplitude damping channel](final_project.html) ([Solution](final_project-solutions.html))
+
+<img src="images/oqs_logos_.jpg"/>

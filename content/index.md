@@ -13,10 +13,10 @@ Projektit on suunnattu maisteriopiskelijoille, joilla on taustaa kvanttimekaniik
 
 ## Projektit
 
-1. [Depolarisoiva kanava](project_1-depolarizing_channel.html) ([Solution](project_1-solution.html))
-2. [Paulin kanava](project_2-pauli_channel.html) ([Solution](project_2-solution.html))
-3. [Markovian reservoir engineering](project_3-reservoir-engineering.html) ([Solution](project_3-solution.html))
-4. [Amplitudia vaimentava kanava](project_4-amplitude_damping.html) ([Solution](project_4-solution.html))
-5. [Amplitudia vaimentava kanava /lopputyö](final_project.html) ([Solution](final_project-solutions.html))
+1. [Depolarisoiva kanava](project_1-depolarizing_channel.html) ([Ratkaisu](project_1-solution.html))
+2. [Paulin kanava](project_2-pauli_channel.html) ([Ratkaisu](project_2-solution.html))
+3. [Markovian reservoir engineering](project_3-reservoir-engineering.html) ([Ratkaisu](project_3-solution.html))
+4. [Amplitudia vaimentava kanava](project_4-amplitude_damping.html) ([Ratkaisu](project_4-solution.html))
+5. [Amplitudia vaimentava kanava /lopputyö](final_project.html) ([Ratkaisu](final_project-solutions.html))
 
 <img src="images/oqs_logos_.jpg"/>

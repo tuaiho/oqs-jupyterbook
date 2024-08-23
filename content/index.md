@@ -13,7 +13,7 @@ Projektit on suunnattu maisteriopiskelijoille, joilla on taustaa kvanttimekaniik
 
 ## Projektit
 
-1. [Depolarisoiva kanava](project_1-depolarizing_channel.html) ([Ratkaisu](project_1-solution.html))
+1. [Depolarisoiva kanava](project_1-depolarizing_channel.ipynb) ([Ratkaisu](project_1-solution.html))
 2. [Paulin kanava](project_2-pauli_channel.html) ([Ratkaisu](project_2-solution.html))
 3. [Markovin varasto -tekniikka](project_3-reservoir-engineering.html) ([Ratkaisu](project_3-solution.html))
 4. [Amplitudin vaimennus](project_4-amplitude_damping.html) ([Ratkaisu](project_4-solution.html))

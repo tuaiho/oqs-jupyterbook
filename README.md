@@ -1,15 +1,14 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# Open quantum systems with qiskit
+# Avoimet kvanttisysteemit Qiskitillä
+Tämä kokoelma Jupyter-notebookeja sisältää materiaalit kattavalle 54:n tunnin kurssille avoimista kvanttisysteemeistä (OQS). Se esittelee avointen kvanttisysteemien perusteet ja tärkeimmät OQS:n kirjallisuudessa käytetyt käsitteet. Lisäksi esittelemme aivan uuden idean: opetamme simuloiman monia käytännöllisiä esimerkkejä OQS-dynamiikasta Qiskitin ja IBM Q –prosessoreiden avulla. Kurssin idea on peräisin varsin tuoreesta julkaisusta ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), jossa näytämme, että IBM Quantum Experience on monipuolinen ja vahva alusta avointen kvanttisysteemien simuloimiseen.  
 
-This set of notebooks contains the material for a comprehensive 54-hour course on open quantum systems (OQS), starting from basic concepts and covering the most essential concepts in the literature of OQS. Moreover, we present a novel idea: to teach how to simulate many paradigmatic examples of OQS dynamics with Qiskit and the IBM Q processors. This idea finds its origin in a recent publication ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in which we demonstrate that the IBM Q Experience is a versatile and robust platform for simulating open quantum systems.
+Tämä kurssi on tarkoitettu maisteriopiskelijoille, joilla on taustaa kvanttimekaniikasta ja kvantti-informaatiosta, ja joille Qiskit on myös tuttu. Kurssi jakautuu luentoihin ja projekteihin. Luentomuistiinpanot tarjoavat useita esimerkkejä OQS:n tärkeistä käsitteistä esitettynä sellaisten piirien avulla, joita oletamme opiskelijan tuntevan. Luentomateriaali sisältää myös monia piirejä, joilla OQS-dynamiikkaa on mahdollista simuloida IBM Q:n todellisilla kvanttilaitteilla. Näiden piirien toimintaperiaatteet selitetään kattavasti materiaaleissa. Lisäksi luentoja täydentävät ohjatut käytännön harjoitukset, joissa opiskelijat saavat toteuttaa piirit ja analysoida niiden tuloksia. 
 
-The course is aimed at master students with a background in Quantum Mechanincs and Quantum Information theory who are also familiar with Qiskit. It is divided into lectures and projects. Throught the lecture notes, the lecturer will find several examples of important concepts for OQS in terms of circuits, with which we assume the student to be acquainted. The lecture material also includes many circuits that enable the simulation of OQS dynamics on the real IBM Q devices, with comprehensive explanations on their working principles. Finally, the lectures are to be supplemented with guided practical "hands-on" sessions in which the students must implement the corresponding circuits and analyze the results.
+[Linkki sivustolle](https://qplaylearn.github.io/oqs-jupyterbook)
 
-[Link to the website](https://qplaylearn.github.io/oqs-jupyterbook)
-
-## Installation
-In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.11.9 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
+## Asennus
+Jotta pääset käyttämään kurssin notebookeja ja voit toistaa tulokset, kopioi tämä tietovarasto (repository) laitteellesi ja luo Python 3.11.9 -ympäristö valitsemallasi tavalla (virtualenv, conda tai poetry). Esimerkiksi käyttäen poetryä: 
 
 ```shell
 poetry install
@@ -21,16 +20,16 @@ With pip,
 pip install -r requirements.txt
 ```
 
-## Usage
+## Käyttö
 
-The notebooks are located in the `content` folder inside the repository.
+Notebookit löytyvät kansiosta `content`. 
 
 ----
 
-Authors: Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
+Kirjoittajat: Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
 
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+Tämä työ on lisensoitu käyttöluvalla  [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]

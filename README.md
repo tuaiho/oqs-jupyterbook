@@ -14,7 +14,7 @@ Jotta pääset käyttämään kurssin notebookeja ja voit toistaa tulokset, kopi
 poetry install
 ```
 
-With pip,
+Käyttäen pip:iä,
 
 ```shell
 pip install -r requirements.txt
